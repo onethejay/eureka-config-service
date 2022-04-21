@@ -13,4 +13,5 @@ spring:
     config:
       server:
         git:
-          uri: file:///Users/jeonghun/git-local-repo # Mac ??
+          uri: file:///Users/jeonghun/Desktop/git-local-repo # Mac 기준
+        # url: file:///C:/Users/abc/Downloads/git-local-repo # Windows 기준
